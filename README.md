@@ -1,4 +1,4 @@
-## This module is deprecated for newer versions of Android. Use with caution on older versions ⚠️.
+### This module is deprecated for newer versions of Android. Use with caution on older versions ⚠️.
 
 # Cromite WebView Magisk Module
 
