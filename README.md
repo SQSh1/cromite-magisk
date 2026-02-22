@@ -1,7 +1,7 @@
-### This module is deprecated for newer versions of Android. Use with caution on older versions ⚠️.
+# This module is deprecated for newer versions of Android. Use with caution on older versions ⚠️.
 ---
 
-# Cromite WebView Magisk Module
+### Cromite WebView Magisk Module
 
 > ⚠️ **Disclaimer**  
 > This module **has not been tested on all Android devices or ROMs**. Installing it **is entirely at your own risk**.  
